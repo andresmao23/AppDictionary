@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+
+    <string name="titulo">Aprendiendo ingles</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="digita_nombre">Digita tu nombre</string>
+    <string name="digita_apellido">Digita tu apellido</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="bienvenido">Bienvenido(a)</string>
+    <string name="animales">Animales</string>
+    <string name="colores">Colores</string>
+    <string name="frutas">Frutas</string>
+    <string name="saludos">Saludos</string>
+
+    <string name="vaca">Vaca</string>
+    <string name="perro">Perro</string>
+    <string name="gato">Gato</string>
+
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+
+    <string name="uvas">Uvas</string>
+    <string name="banano">Banano</string>
+    <string name="pera">Pera</string>
+
+    <string name="hola">Hola</string>
+    <string name="dias">Días</string>
+    <string name="noches">Noches</string>
+
+    <string name="traducir">Traducir</string>
+
+
+    <string name="animal">Animal</string>
+    <string name="color">Color</string>
+    <string name="fruta">Fruta</string>
+    <string name="saludo">Saludo</string>
+
+    <string name="titulo_plantilla">Título</string>
+    <string name="texto">Texto</string>
+
+
+    <!-- Traducción -->
+
+    <string name="cow">Cow</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+
+    <string name="grapes">Grapes</string>
+    <string name="banana">Banana</string>
+    <string name="pear">Pear</string>
+
+    <string name="hi">Hi!</string>
+    <string name="morning">Morning</string>
+    <string name="evening">Evening</string>
+
+</resources>
